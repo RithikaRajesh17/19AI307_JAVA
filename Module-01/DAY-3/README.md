@@ -17,8 +17,8 @@ b.	If false, print 'num' followed by " is Non-Zero"
  ```
 /*
 Program to implement a class & objects using Java
-Developed by: Kavinraja D
-RegisterNumber: 212222240047 
+Developed by: Rithika R
+RegisterNumber: 212224240136 
 */
 ```
 
@@ -50,3 +50,4 @@ public class Demo
 
 ## RESULT:
 Thus, the Java program to check given number is zero or not was created successfully.
+
