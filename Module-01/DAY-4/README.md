@@ -40,8 +40,8 @@ To write a Java program to calculate and print the area of a circle by defining 
  ```
 /*
 Program to implement a User Defined Method using Java
-Developed by: Kavinraja D
-RegisterNumber: 212222240047 
+Developed by: Rithika R
+RegisterNumber: 212224240136 
 */
 ```
 
@@ -69,3 +69,4 @@ public class Area {
 
 ## RESULT:
 Thus, the Java program to calculate the area of a circle using an instance method and local variables with a void return type is successfully created and executed.
+
